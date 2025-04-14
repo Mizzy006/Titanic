@@ -5,7 +5,7 @@ This project explores the famous Titanic dataset using Python libraries like `pa
 # Dataset
 
 - Source: [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
-- File used: `train.csv`
+- File used: `Titanic-Dataset.csv`
 
 # Project Objectives
 
